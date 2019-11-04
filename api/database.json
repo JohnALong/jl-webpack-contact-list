@@ -1,3 +1,32 @@
 {
-  "contacts": []
+  "contacts": [
+    {
+      "firstName": "John",
+      "lastName": "Long",
+      "phoneNumber": "573-332-1807",
+      "address": "1638 County Road 642",
+      "id": 1
+    },
+    {
+      "firstName": "James",
+      "lastName": "Long",
+      "phoneNumber": "573-243-7586",
+      "address": "3658 State Highway D",
+      "id": 2
+    },
+    {
+      "firstName": "Brenda",
+      "lastName": "Long",
+      "phoneNumber": "615-972-7624",
+      "address": "9731 Turner Lane",
+      "id": 3
+    },
+    {
+      "firstName": "Keaton",
+      "lastName": "Doss",
+      "phoneNumber": "333-222-1111",
+      "address": "301 Plus Park Blvd",
+      "id": 4
+    }
+  ]
 }
