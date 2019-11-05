@@ -1,5 +1,4 @@
 import html from "./factory.js"
-import api from "./data.js"
 
 const htmlInfo = {
     formToDom: () => {
